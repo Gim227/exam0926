@@ -33,8 +33,7 @@ def grabPage(link):
     link = "https://www.ptt.cc"+link
     if link is None:
         return
-    # print(title)
-    # print(link)
+    print(link)
     response = requests.get(link)
     
     if response.status_code == 200:

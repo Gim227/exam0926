@@ -40,7 +40,7 @@
 			<div class="btn-group btn-group-paging">
 				<a class="btn wide" href="/bbs/NBA/index1.html">最舊</a>
 				<a class="btn wide" href="/bbs/NBA/index6226.html">&lsaquo; 上頁</a>
-				<a class="btn wide disabled">下頁 &rsaquo;</a>
+				<a class="btn wide" href="/bbs/NBA/index6228.html">下頁 &rsaquo;</a>
 				<a class="btn wide" href="/bbs/NBA/index.html">最新</a>
 			</div>
 		</div>
@@ -59,7 +59,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">14</span></div>
+			<div class="nrec"><span class="hl f3">15</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537877570.A.333.html">Re: [討論] NBA30座球場壯遊行程規劃</a>
@@ -117,7 +117,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">62</span></div>
+			<div class="nrec"><span class="hl f3">65</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537880642.A.97D.html">[外絮] Shawn Kemp 我想念超音速</a>
@@ -146,7 +146,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">46</span></div>
+			<div class="nrec"><span class="hl f3">48</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537882136.A.61C.html">Re: [新聞] 巴特勒交易搞不定　爆灰狼內部一團亂</a>
@@ -175,7 +175,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">23</span></div>
+			<div class="nrec"><span class="hl f3">24</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537883563.A.79E.html">Re: [情報] 2018年運動員代言收入排行榜  LBJ第二名</a>
@@ -254,7 +254,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">31</span></div>
+			<div class="nrec"><span class="hl f3">32</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537889913.A.F61.html">[情報] Walton:要打快節奏籃球，陣容深度是優勢</a>
@@ -283,7 +283,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">22</span></div>
+			<div class="nrec"><span class="hl f3">23</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537890483.A.755.html">[新聞] 避談替補問題　安東尼：為奪冠做啥都可</a>
@@ -312,7 +312,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">16</span></div>
+			<div class="nrec"><span class="hl f3">17</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537891229.A.493.html">Re: [新聞] 巴特勒交易搞不定　爆灰狼內部一團亂</a>
@@ -362,7 +362,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">45</span></div>
+			<div class="nrec"><span class="hl f3">51</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537893309.A.8D5.html">[情報] Tucker談今年西決:就算我的牙齒全被打掉</a>
@@ -420,7 +420,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">49</span></div>
+			<div class="nrec"><span class="hl f3">53</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537919556.A.FC4.html">[新聞] 感覺自己屬於火箭  Melo：3巨頭是趨勢</a>
@@ -449,7 +449,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">54</span></div>
+			<div class="nrec"><span class="hl f3">68</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537923588.A.975.html">[專欄] 購買NBA門票前你需要知道的13件事</a>
@@ -478,7 +478,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">26</span></div>
+			<div class="nrec"><span class="hl f3">30</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537925445.A.C80.html">[新聞] 湖人開訓詹姆斯誓言奪冠 朗多新賽季扛先</a>
@@ -507,7 +507,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">22</span></div>
+			<div class="nrec"><span class="hl f3">27</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537925987.A.48C.html">[外絮] LBJ說明去年湖人賽後跟Lonzo Ball講的話</a>
@@ -536,7 +536,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">13</span></div>
+			<div class="nrec"><span class="hl f3">21</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537926283.A.67B.html">[新聞] 身體充滿能量 林書豪盼打滿整季</a>
@@ -565,7 +565,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">24</span></div>
+			<div class="nrec"><span class="hl f3">33</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537926790.A.D14.html">[新聞]不期待成為自由球員 湯普森:對勇士很滿意</a>
@@ -594,7 +594,7 @@
         
         
 		<div class="r-ent">
-			<div class="nrec"><span class="hl f2">8</span></div>
+			<div class="nrec"><span class="hl f3">25</span></div>
 			<div class="title">
 			
 				<a href="/bbs/NBA/M.1537929013.A.556.html">[情報] Ball:從小看了許多Rondo的比賽，他經常是</a>
@@ -619,96 +619,6 @@
 		</div>
 
 		
-        
-        <div class="r-list-sep"></div>
-            
-                
-        
-        
-		<div class="r-ent">
-			<div class="nrec"></div>
-			<div class="title">
-			
-				<a href="/bbs/NBA/M.1504521964.A.8F9.html">[公告] 板規v6.2</a>
-			
-			</div>
-			<div class="meta">
-				<div class="author">abc7360393</div>
-				<div class="article-menu">
-					
-					<div class="trigger">&#x22ef;</div>
-					<div class="dropdown">
-						<div class="item"><a href="/bbs/NBA/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E6%9D%BF%E8%A6%8Fv6.2">搜尋同標題文章</a></div>
-						
-						<div class="item"><a href="/bbs/NBA/search?q=author%3Aabc7360393">搜尋看板內 abc7360393 的文章</a></div>
-						
-					</div>
-					
-				</div>
-				<div class="date"> 9/04</div>
-				<div class="mark">!</div>
-			</div>
-		</div>
-
-            
-                
-        
-        
-		<div class="r-ent">
-			<div class="nrec"><span class="hl f1">爆</span></div>
-			<div class="title">
-			
-				<a href="/bbs/NBA/M.1530094626.A.4FC.html">[情報] 2018-19 自由球員市場異動 (表格-9/13)</a>
-			
-			</div>
-			<div class="meta">
-				<div class="author">laigei</div>
-				<div class="article-menu">
-					
-					<div class="trigger">&#x22ef;</div>
-					<div class="dropdown">
-						<div class="item"><a href="/bbs/NBA/search?q=thread%3A%5B%E6%83%85%E5%A0%B1%5D&#43;2018-19&#43;%E8%87%AA%E7%94%B1%E7%90%83%E5%93%A1%E5%B8%82%E5%A0%B4%E7%95%B0%E5%8B%95&#43;%28%E8%A1%A8%E6%A0%BC-9%2F13%29">搜尋同標題文章</a></div>
-						
-						<div class="item"><a href="/bbs/NBA/search?q=author%3Alaigei">搜尋看板內 laigei 的文章</a></div>
-						
-					</div>
-					
-				</div>
-				<div class="date"> 6/27</div>
-				<div class="mark"></div>
-			</div>
-		</div>
-
-            
-                
-        
-        
-		<div class="r-ent">
-			<div class="nrec"><span class="hl f3">33</span></div>
-			<div class="title">
-			
-				<a href="/bbs/NBA/M.1530262734.A.1E5.html">[情報] 2018-19 自由球員市場異動 (每日文字)</a>
-			
-			</div>
-			<div class="meta">
-				<div class="author">laigei</div>
-				<div class="article-menu">
-					
-					<div class="trigger">&#x22ef;</div>
-					<div class="dropdown">
-						<div class="item"><a href="/bbs/NBA/search?q=thread%3A%5B%E6%83%85%E5%A0%B1%5D&#43;2018-19&#43;%E8%87%AA%E7%94%B1%E7%90%83%E5%93%A1%E5%B8%82%E5%A0%B4%E7%95%B0%E5%8B%95&#43;%28%E6%AF%8F%E6%97%A5%E6%96%87%E5%AD%97%29">搜尋同標題文章</a></div>
-						
-						<div class="item"><a href="/bbs/NBA/search?q=author%3Alaigei">搜尋看板內 laigei 的文章</a></div>
-						
-					</div>
-					
-				</div>
-				<div class="date"> 6/29</div>
-				<div class="mark"></div>
-			</div>
-		</div>
-
-            
         
 	</div>
 
