@@ -6,24 +6,24 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>[新聞] 感覺自己屬於火箭  Melo：3巨頭是趨勢 - 看板 NBA - 批踢踢實業坊</title>
+<title>[新聞] 身體充滿能量 林書豪盼打滿整季 - 看板 NBA - 批踢踢實業坊</title>
 <meta name="robots" content="all">
 <meta name="keywords" content="Ptt BBS 批踢踢">
-<meta name="description" content="記者游郁香／綜合報導
-4年前就曾猛烈追求全明星前鋒Carmelo Anthony的火箭隊，今夏終於如願以償。「甜瓜」
-在《The Matt Thomas Show》節目上受訪時坦言，不知為何過去4、5年一直沒能成功降臨
-休士頓，但現在他覺得自己屬於這裡；他也談到當今聯盟盛行組「3巨頭」，直言過去
-「抱團」可能會被看不起，現在卻已是趨勢。
+<meta name="description" content="身體充滿能量 林書豪盼打滿整季
+〔記者廖聿偉／綜合報導〕歷經長達一年的復健，林書豪膝傷已痊癒，昨首度披上老鷹戰
+袍亮相，成為球隊媒體日的焦點；但有別於前幾季的強烈企圖心，本季他特別強調健康的
+重要，不希望再因傷錯過任何比賽。
+今年滿30歲的林書豪，近年傷痛纏身，上季更在開幕戰就扭傷右膝報銷。總計近兩個球季
 ">
 <meta property="og:site_name" content="Ptt 批踢踢實業坊">
-<meta property="og:title" content="[新聞] 感覺自己屬於火箭  Melo：3巨頭是趨勢">
-<meta property="og:description" content="記者游郁香／綜合報導
-4年前就曾猛烈追求全明星前鋒Carmelo Anthony的火箭隊，今夏終於如願以償。「甜瓜」
-在《The Matt Thomas Show》節目上受訪時坦言，不知為何過去4、5年一直沒能成功降臨
-休士頓，但現在他覺得自己屬於這裡；他也談到當今聯盟盛行組「3巨頭」，直言過去
-「抱團」可能會被看不起，現在卻已是趨勢。
+<meta property="og:title" content="[新聞] 身體充滿能量 林書豪盼打滿整季">
+<meta property="og:description" content="身體充滿能量 林書豪盼打滿整季
+〔記者廖聿偉／綜合報導〕歷經長達一年的復健，林書豪膝傷已痊癒，昨首度披上老鷹戰
+袍亮相，成為球隊媒體日的焦點；但有別於前幾季的強烈企圖心，本季他特別強調健康的
+重要，不希望再因傷錯過任何比賽。
+今年滿30歲的林書豪，近年傷痛纏身，上季更在開幕戰就扭傷右膝報銷。總計近兩個球季
 ">
-<link rel="canonical" href="https://www.ptt.cc/bbs/NBA/M.1537919556.A.FC4.html">
+<link rel="canonical" href="https://www.ptt.cc/bbs/NBA/M.1537926283.A.67B.html">
 
 <link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.25/bbs-common.css">
 <link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.25/bbs-base.css" media="screen">
@@ -61,7 +61,7 @@ fjs.parentNode.insertBefore(js, fjs);
 		<div class="bar"></div>
 		<div class="share">
 			<span>分享</span>
-			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/NBA/M.1537919556.A.FC4.html"></div>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/NBA/M.1537926283.A.67B.html"></div>
 
 			<div class="g-plusone" data-size="medium"></div>
 <script type="text/javascript">
@@ -77,171 +77,85 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 	</div>
 </div>
 <div id="main-container">
-    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kenny1300175 (蘇湖)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">NBA</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 感覺自己屬於火箭  Melo：3巨頭是趨勢</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed Sep 26 07:52:33 2018</span></div>
-記者游郁香／綜合報導
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">benwei791207 (嘿嘿嘿)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">NBA</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 身體充滿能量 林書豪盼打滿整季</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed Sep 26 09:44:41 2018</span></div>
+身體充滿能量 林書豪盼打滿整季
 
 
-4年前就曾猛烈追求全明星前鋒Carmelo Anthony的火箭隊，今夏終於如願以償。「甜瓜」
-在《The Matt Thomas Show》節目上受訪時坦言，不知為何過去4、5年一直沒能成功降臨
-休士頓，但現在他覺得自己屬於這裡；他也<span class="f5 hl">談到當今聯盟盛行組「3巨頭」，直言過去</span>
-<span class="f5 hl">「抱團」可能會被看不起，現在卻已是趨勢。</span>
+〔記者廖聿偉／綜合報導〕歷經長達一年的復健，林書豪膝傷已痊癒，昨首度披上老鷹戰
+袍亮相，成為球隊媒體日的焦點；但有別於前幾季的強烈企圖心，本季他特別強調健康的
+重要，不希望再因傷錯過任何比賽。
 
+今年滿30歲的林書豪，近年傷痛纏身，上季更在開幕戰就扭傷右膝報銷。總計近兩個球季
+在籃網只打了36場比賽，大半時間都在養傷，今夏更無預警被交易至老鷹，生涯已換過7
+支球隊。他坦言，「厭倦浪人生活，期盼找到一座能久居的城市，最重要的是保持健康，
+才能證明身價。」
 
-從4年前開始，火箭幾度招攬Anthony，甚至在2014年夏天與恢復自由身的他會面前，為了
-表達誠意，在主場豐田中心立起「甜瓜」穿休士頓7號戰袍的電子看板，但當時隊上的7號
-球員林書豪還未離隊，還引起了一陣風波。
+右膝髕骨韌帶斷裂是林書豪生涯最嚴重的傷勢，醫生評估即使痊癒，運動能力也只能回復
+約8成。因此，林書豪除了增強膝部肌力外，也嘗試用不同的方式發力，開發不同的肌群
+和改變打法，期盼能東山再起。
 
+林書豪表示，「我的身體充滿能量，已迫不及待迎接開季，參與高張力比賽，相信我的膝
+蓋能通過漫長球季的考驗。」
 
-但後來Anthony與尼克續約5年，簽下價值1.29億美元的頂薪合約，附有球員否決條款；去
-年夏天，火箭再次爭取Anthony，無奈沒有足夠的籌碼，最終尼克把他交易至雷霆。但因
-轉戰雷霆的過程太過倉促，導致「甜瓜」在奧克拉荷馬適應不良，這個休賽季先被送到
-老鷹，隨後雙方達成買斷，他決定投入休士頓的懷抱。
+老鷹今夏將昔日主控施洛德送走，預計林書豪將接班先發控衛的重任，並帶領今年第5順
+位的超級新人楊恩，共同扛起後場。他說：「楊恩才華洋溢，不僅能得分，還具備出色的
+傳球視野，潛力無限。」
 
+新聞連結
+<a href="http://sports.ltn.com.tw/m/news/paper/1234735" target="_blank" rel="nofollow">http://sports.ltn.com.tw/m/news/paper/1234735</a>
 
-繞了一大圈終於加盟火箭，Anthony直言，「老實說，這不是我能決定的，花了很長的時
-間才來到這裡，我的名字跟火箭掛在一起大概有4、5年了；現在我覺得自己屬於這裡。」
-<span class="f2 hl">他也搞笑表示，自己當了「好幾分鐘」的老鷹球員，亞特蘭大應該把他的球衣退休。</span>
-
-
-Anthony透露，在被老鷹買斷後，火箭向他表達了高度的興趣，讓他感覺到自己「需要」
-來到這裡，沒有必要考慮其他球隊的邀約。雖然在25日的媒體日被問到新賽季在火箭
-「先發或替補」的問題時，他拒絕正面回應，但他強調為了幫助球隊奪冠願做任何事；
-在《The Matt Thomas Show》節目上他也提到來到休士頓是為了拿總冠軍，「成為支這
-優秀球隊的一部分」，顯然將團隊置於個人之前。
-
-
-這位10屆全明星前鋒將與火箭一哥James Harden、後場指揮官Chris Paul搭檔，他也被問
-到關於聯盟近年盛行組3巨頭的問題，他認為這是一種趨勢，<span class="f3 hl">「這不是任何人的錯，在我</span>
-<span class="f3 hl">剛進聯盟時，如果你去跟另外一個或兩個明星球員組隊，你會被瞧不起，但現在這很正常</span>
-。」<span class="f6 hl">他說現在的球員普遍認為奪冠的目標最重要，並不在意自己去哪一隊</span>，以及能否憑自
-己的力量率隊拿下總冠軍。
-
-
-
-
-原文網址: 感覺自己屬於火箭　甜瓜談聯手哈登、保羅：3巨頭是趨勢 | ETtoday運動雲
- | ETtoday新聞雲 <a href="https://sports.ettoday.net/news/1266630#ixzz5SA142hu3" target="_blank" rel="nofollow">https://sports.ettoday.net/news/1266630#ixzz5SA142hu3</a>
-Follow us: @ETtodaynet on Twitter | ETtoday on Facebook
+<a href="https://i.imgur.com/5irxKVM.jpg" target="_blank" rel="nofollow">https://i.imgur.com/5irxKVM.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="5irxKVM"><a href="//imgur.com/5irxKVM"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+豪神加油！
 
 --
-
-與時推移
-
---
-<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.42.63.34
-</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/NBA/M.1537919556.A.FC4.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/NBA/M.1537919556.A.FC4.html</a>
-</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MrSatan     </span><span class="f3 push-content">: 民視龍頭</span><span class="push-ipdatetime"> 09/26 07:54
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roytenpura  </span><span class="f3 push-content">: 勇士：過時</span><span class="push-ipdatetime"> 09/26 07:54
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tigertiger  </span><span class="f3 push-content">: 趨勢沒錯...但瓜瓜...你已經不是巨頭了</span><span class="push-ipdatetime"> 09/26 07:56
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ievolnds    </span><span class="f3 push-content">: 火箭三巨頭是CP3 JH Capela?</span><span class="push-ipdatetime"> 09/26 07:56
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">forest204c  </span><span class="f3 push-content">: 1&gt;0</span><span class="push-ipdatetime"> 09/26 07:56
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kyle5241    </span><span class="f3 push-content">: 柯文哲～丁守中～姚文 是吧</span><span class="push-ipdatetime"> 09/26 07:57
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MK12        </span><span class="f3 push-content">: 完蛋了</span><span class="push-ipdatetime"> 09/26 07:57
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b08297      </span><span class="f3 push-content">: 多家媒體排名連百大都排不上好意思說自己巨頭？</span><span class="push-ipdatetime"> 09/26 08:03
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kreen       </span><span class="f3 push-content">: 雷霆三巨頭～</span><span class="push-ipdatetime"> 09/26 08:04
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lpmybig     </span><span class="f3 push-content">: 嗯 替補仔巨頭</span><span class="push-ipdatetime"> 09/26 08:06
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">william12tw </span><span class="f3 push-content">: 加油</span><span class="push-ipdatetime"> 09/26 08:07
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">atking      </span><span class="f3 push-content">: ？</span><span class="push-ipdatetime"> 09/26 08:07
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dannyshan   </span><span class="f3 push-content">: 嘴別人有個屁用 你年輕的時候又不想降低薪合體</span><span class="push-ipdatetime"> 09/26 08:09
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ChrisPaul03 </span><span class="f3 push-content">: 從先發球員退化成巨頭球員</span><span class="push-ipdatetime"> 09/26 08:09
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kk870618    </span><span class="f3 push-content">: 不包括你</span><span class="push-ipdatetime"> 09/26 08:11
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hohenzollern</span><span class="f3 push-content">: 三巨頭中你是鋸頭</span><span class="push-ipdatetime"> 09/26 08:14
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sttarmbcb390</span><span class="f3 push-content">: 瓜瓜加火箭(若算巨頭)就比去年雷霆三巨頭強了 可以</span><span class="push-ipdatetime"> 09/26 08:14
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uuuc1223    </span><span class="f3 push-content">: 他那裡說自己是巨頭了 真的看到瓜就要酸</span><span class="push-ipdatetime"> 09/26 08:15
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qsccft123   </span><span class="f3 push-content">: 但你 不是</span><span class="push-ipdatetime"> 09/26 08:15
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paul5566    </span><span class="f3 push-content">: 別這樣，瓜瓜的討論度也算巨星惹吧XD</span><span class="push-ipdatetime"> 09/26 08:15
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qsccft123   </span><span class="f3 push-content">: 狗蛋都比較有資格</span><span class="push-ipdatetime"> 09/26 08:16
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sttarmbcb390</span><span class="f3 push-content">: 驗證瓜到雷霆到底有沒有幫助球隊</span><span class="push-ipdatetime"> 09/26 08:16
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flicker36   </span><span class="f3 push-content">: 薪資來說是三巨頭沒錯</span><span class="push-ipdatetime"> 09/26 08:17
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lmeet5566   </span><span class="f3 push-content">: 板凳仔話這摸多</span><span class="push-ipdatetime"> 09/26 08:19
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">happyben1025</span><span class="f3 push-content">: 被買斷還這麼開心哦？</span><span class="push-ipdatetime"> 09/26 08:20
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a9527a      </span><span class="f3 push-content">: 但你是抱三巨頭！嫩</span><span class="push-ipdatetime"> 09/26 08:21
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smallhonda  </span><span class="f3 push-content">: 還不都你同T的帶壞聯盟風氣</span><span class="push-ipdatetime"> 09/26 08:21
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roymond     </span><span class="f3 push-content">: 但你不是巨頭，你是個替補咖</span><span class="push-ipdatetime"> 09/26 08:27
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Leaflock    </span><span class="f3 push-content">: 三巨頭當然就是CP3 Harden Capela</span><span class="push-ipdatetime"> 09/26 08:30
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wei5566     </span><span class="f3 push-content">: 毒瓜 火箭完了 都幾歲了認不清現實不打替補 一定比</span><span class="push-ipdatetime"> 09/26 08:31
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wei5566     </span><span class="f3 push-content">: 去年爛</span><span class="push-ipdatetime"> 09/26 08:31
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yellowbooky </span><span class="f3 push-content">: 現在要4~5巨頭才夠看了</span><span class="push-ipdatetime"> 09/26 08:32
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Eeyniar     </span><span class="f3 push-content">: 火箭摧毀者</span><span class="push-ipdatetime"> 09/26 08:33
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CCFACE      </span><span class="f3 push-content">: 薪資不算我覺得你是第五個</span><span class="push-ipdatetime"> 09/26 08:35
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a254149     </span><span class="f3 push-content">: 替補的巨頭</span><span class="push-ipdatetime"> 09/26 08:41
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vltw5v      </span><span class="f3 push-content">: 趨勢沒錯，但瓜你不是巨頭</span><span class="push-ipdatetime"> 09/26 08:44
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">samtony     </span><span class="f3 push-content">: 年薪300萬的巨頭</span><span class="push-ipdatetime"> 09/26 08:46
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">darkMood    </span><span class="f3 push-content">: 問題是你不是巨頭。</span><span class="push-ipdatetime"> 09/26 08:47
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linceass    </span><span class="f3 push-content">: 我不覺得他現在還能當巨頭XD</span><span class="push-ipdatetime"> 09/26 08:51
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenyun      </span><span class="f3 push-content">: 瓜哥是去年今年兩次都被姆斯拒收的巨頭</span><span class="push-ipdatetime"> 09/26 08:51
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aikensh     </span><span class="f3 push-content">: 呃…現在你應該不算</span><span class="push-ipdatetime"> 09/26 08:51
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jc0215      </span><span class="f3 push-content">: 去年不是嗎</span><span class="push-ipdatetime"> 09/26 08:52
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coox        </span><span class="f3 push-content">: 瓜現在有聯盟前一百強嗎？</span><span class="push-ipdatetime"> 09/26 08:52
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">moly8711    </span><span class="f3 push-content">: 可是你不是巨頭啊</span><span class="push-ipdatetime"> 09/26 08:54
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a103232     </span><span class="f3 push-content">: 以前是巨星啦  現在就球星啦</span><span class="push-ipdatetime"> 09/26 08:54
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ralphhoh2000</span><span class="f3 push-content">: 全篇發言唯一的問題就是自己不是</span><span class="push-ipdatetime"> 09/26 08:57
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pp9960      </span><span class="f3 push-content">: 感覺</span><span class="push-ipdatetime"> 09/26 08:58
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colan8      </span><span class="f3 push-content">: 那當初信誓旦旦去尼克做啥</span><span class="push-ipdatetime"> 09/26 09:05
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JayceYen    </span><span class="f3 push-content">: 你怎麼會覺得自己還是巨頭？</span><span class="push-ipdatetime"> 09/26 09:06
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colan8      </span><span class="f3 push-content">: gang greed gang 怪</span><span class="push-ipdatetime"> 09/26 09:08
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Bainite     </span><span class="f3 push-content">: 現在流行五巨頭</span><span class="push-ipdatetime"> 09/26 09:08
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abcd575     </span><span class="f3 push-content">: 勇士：我們五巨頭</span><span class="push-ipdatetime"> 09/26 09:09
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chaulove    </span><span class="f3 push-content">: 能否憑自己的力量率隊拿下總冠軍</span><span class="push-ipdatetime"> 09/26 09:09
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OneCell     </span><span class="f3 push-content">: 有人說你不是巨頭</span><span class="push-ipdatetime"> 09/26 09:10
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hata506     </span><span class="f3 push-content">: 現在的瓜比吉巴更沒人想要吧</span><span class="push-ipdatetime"> 09/26 09:11
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KillLakers  </span><span class="f3 push-content">: Harden CP3 Capela  三巨頭無誤~~~~~~~~~~~~~</span><span class="push-ipdatetime"> 09/26 09:15
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wantsu      </span><span class="f3 push-content">: 瓜：我是巨頭，先發也是理所當然的吧</span><span class="push-ipdatetime"> 09/26 09:21
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">onlyfun68   </span><span class="f3 push-content">: 火箭掰...</span><span class="push-ipdatetime"> 09/26 09:29
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">surfkevin   </span><span class="f3 push-content">: 那火箭還差一個阿</span><span class="push-ipdatetime"> 09/26 09:31
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Scion       </span><span class="f3 push-content">: 是Gordon還是Carmela?</span><span class="push-ipdatetime"> 09/26 09:35
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Scion       </span><span class="f3 push-content">: Carpela</span><span class="push-ipdatetime"> 09/26 09:36
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Scion       </span><span class="f3 push-content">: Capela拉幹</span><span class="push-ipdatetime"> 09/26 09:36
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rudy0115    </span><span class="f3 push-content">: 年輕不想降薪合體錯了嗎...骨氣啊</span><span class="push-ipdatetime"> 09/26 09:38
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kyle5241    </span><span class="f3 push-content">: 火箭姚文智</span><span class="push-ipdatetime"> 09/26 09:41
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">robinson    </span><span class="f3 push-content">: 可惜巨頭不是你XDDD</span><span class="push-ipdatetime"> 09/26 09:41
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rudy0115    </span><span class="f3 push-content">: 還有到底去尼克有甚麼好噓</span><span class="push-ipdatetime"> 09/26 09:41
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rudy0115    </span><span class="f3 push-content">: 家鄉球隊捧著天價的約誠意十足的找你不簽嗎</span><span class="push-ipdatetime"> 09/26 09:41
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aa08175     </span><span class="f3 push-content">: 去跟LBJ組隊，你才能當巨頭</span><span class="push-ipdatetime"> 09/26 09:43
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starxls     </span><span class="f3 push-content">: Harden CP3 Capela 三巨頭沒錯</span><span class="push-ipdatetime"> 09/26 09:44
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wylscott    </span><span class="f3 push-content">: 趕快放話自己仍是巨頭 免得直接被壓替補</span><span class="push-ipdatetime"> 09/26 09:49
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chen1470    </span><span class="f3 push-content">: 自己說自是巨頭？是哪個頭巨啊？</span><span class="push-ipdatetime"> 09/26 09:51
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a86425380   </span><span class="f3 push-content">: 氣氛宗師</span><span class="push-ipdatetime"> 09/26 09:53
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bearbig     </span><span class="f3 push-content">: 哪句提到自己是巨頭了XD 真的是見獵心喜欸酸酸</span><span class="push-ipdatetime"> 09/26 09:57
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">holypiggy   </span><span class="f3 push-content">: 巨頭X大頭症O</span><span class="push-ipdatetime"> 09/26 10:00
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">FengQQ      </span><span class="f3 push-content">: 2巨頭 +1老瓜</span><span class="push-ipdatetime"> 09/26 10:02
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HidekiRyuga </span><span class="f3 push-content">: 這咖早就不強了  為什麼還有這種自信</span><span class="push-ipdatetime"> 09/26 10:10
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jms790607   </span><span class="f3 push-content">: 卡配拉，cp3，哈等</span><span class="push-ipdatetime"> 09/26 10:12
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pjaiuml421  </span><span class="f3 push-content">: 4年前還是巨頭 現在不是了</span><span class="push-ipdatetime"> 09/26 10:17
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a9564208    </span><span class="f3 push-content">: 瓜瓜連頭都不是</span><span class="push-ipdatetime"> 09/26 10:17
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a9564208    </span><span class="f3 push-content">: 如果4年前就是去年陣容瓜瓜早就抱了</span><span class="push-ipdatetime"> 09/26 10:18
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paulpaul40  </span><span class="f3 push-content">: 尚書大人真機靈</span><span class="push-ipdatetime"> 09/26 10:23
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hij76128    </span><span class="f3 push-content">: 你不算巨頭了吧</span><span class="push-ipdatetime"> 09/26 10:31
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jojomickey2 </span><span class="f3 push-content">: 當初就死要錢呀</span><span class="push-ipdatetime"> 09/26 10:33
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MattiaPasini</span><span class="f3 push-content">: 坦承本有機會加盟騎士或火箭</span><span class="push-ipdatetime"> 09/26 10:36
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MattiaPasini</span><span class="f3 push-content">: Melo：在雷霆如獲重生</span><span class="push-ipdatetime"> 09/26 10:36
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MattiaPasini</span><span class="f3 push-content">: Melo：「我很享受在雷霆打</span><span class="push-ipdatetime"> 09/26 10:36
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MattiaPasini</span><span class="f3 push-content">: 球，來季我會繼續留在這裡！」</span><span class="push-ipdatetime"> 09/26 10:36
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MattiaPasini</span><span class="f3 push-content">: →→現在??</span><span class="push-ipdatetime"> 09/26 10:36
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vygood      </span><span class="f3 push-content">: 已板凳來說的話是</span><span class="push-ipdatetime"> 09/26 10:36
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">IBIZA       </span><span class="f3 push-content">: 樓樓上, 他是續留了啊, 他opt in了, 有甚麼問題嗎?</span><span class="push-ipdatetime"> 09/26 10:45
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">IBIZA       </span><span class="f3 push-content">: 是雷霆交易掉他的</span><span class="push-ipdatetime"> 09/26 10:45
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">victor16    </span><span class="f3 push-content">: 替補毒瓜想太多</span><span class="push-ipdatetime"> 09/26 10:53
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">James78923  </span><span class="f3 push-content">: 媒體排名都輸卡佩拉這麼多了</span><span class="push-ipdatetime"> 09/26 10:56
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kamiii      </span><span class="f3 push-content">: *KD:KD才不屑什麼三巨頭</span><span class="push-ipdatetime"> 09/26 10:59
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">scorpioleo  </span><span class="f3 push-content">: 不要瞎掰好嗎 就是個老將了</span><span class="push-ipdatetime"> 09/26 10:59
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Wolverine56 </span><span class="f3 push-content">: 勇士：3巨頭過期了，現在流行5巨頭</span><span class="push-ipdatetime"> 09/26 11:05
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ZBeta       </span><span class="f3 push-content">: 瓜仔你已經不是巨頭囉</span><span class="push-ipdatetime"> 09/26 11:13
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsuyungte   </span><span class="f3 push-content">: 你替補好嗎…</span><span class="push-ipdatetime"> 09/26 11:15
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ghghfftjack </span><span class="f3 push-content">: 但是你不是巨頭</span><span class="push-ipdatetime"> 09/26 11:21
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KyrieIrvingg</span><span class="f3 push-content">: 但是你是大頭...不是巨頭...</span><span class="push-ipdatetime"> 09/26 11:33
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">as6354993   </span><span class="f3 push-content">: 替補中的巨頭</span><span class="push-ipdatetime"> 09/26 11:37
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkjjkkjj    </span><span class="f3 push-content">: 你不是巨頭</span><span class="push-ipdatetime"> 09/26 11:38
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">justinXD    </span><span class="f3 push-content">: 毒瓜: 我跟KD一樣也是巨頭好嗎???</span><span class="push-ipdatetime"> 09/26 11:49
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bengret     </span><span class="f3 push-content">: 你現在叫老頭</span><span class="push-ipdatetime"> 09/26 11:54
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hobbes      </span><span class="f3 push-content">: 防守是個大洞，進攻應該沒有問題，還是很強</span><span class="push-ipdatetime"> 09/26 12:07
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamjater    </span><span class="f3 push-content">: 勇士也有個500萬的巨頭</span><span class="push-ipdatetime"> 09/26 12:11
-</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tdkandrh    </span><span class="f3 push-content">: 瓜酸板</span><span class="push-ipdatetime"> 09/26 12:19
-</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ilovemyhear </span><span class="f3 push-content">: 他的確續留了啊，只是被交易</span><span class="push-ipdatetime"> 09/26 12:20
-</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skingqq     </span><span class="f3 push-content">: 不是巨頭了吧……</span><span class="push-ipdatetime"> 09/26 12:26
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.10.67.81
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/NBA/M.1537926283.A.67B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/NBA/M.1537926283.A.67B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MadK17672   </span><span class="f3 push-content">: 連結貼錯了吧</span><span class="push-ipdatetime">09/26 09:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a86425380   </span><span class="f3 push-content">: 能量小倫</span><span class="push-ipdatetime"> 09/26 09:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JustWinslow </span><span class="f3 push-content">: 繼承能量老普的意志！！！百萬老普迷集氣集起來</span><span class="push-ipdatetime"> 09/26 09:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dwiee       </span><span class="f3 push-content">: 能量豪豪!!</span><span class="push-ipdatetime">09/26 09:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jlincredible</span><span class="f3 push-content">: 健康就好～～</span><span class="push-ipdatetime">09/26 09:51
+</span></div><span class="f2">※ 編輯: benwei791207 (101.10.67.81), 09/26/2018 09:54:53
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jyoline1215 </span><span class="f3 push-content">: 終於有老普迷了呵呵</span><span class="push-ipdatetime"> 09/26 10:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MadK17672   </span><span class="f3 push-content">: 有改 推回來</span><span class="push-ipdatetime"> 09/26 10:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">senafeld    </span><span class="f3 push-content">: 雖然很喜歡他，但還是希望他抱持健康</span><span class="push-ipdatetime"> 09/26 10:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abelyi100   </span><span class="f3 push-content">: 球迷也希望。。。</span><span class="push-ipdatetime"> 09/26 10:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sheng1025   </span><span class="f3 push-content">: 熱身賽會上場亮相嗎？</span><span class="push-ipdatetime"> 09/26 10:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vygood      </span><span class="f3 push-content">: 我覺得充滿能量。</span><span class="push-ipdatetime"> 09/26 10:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">phix        </span><span class="f3 push-content">: 能量終於要留給自己了嗎</span><span class="push-ipdatetime"> 09/26 10:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MasakiPei   </span><span class="f3 push-content">: 哈，不期不待</span><span class="push-ipdatetime"> 09/26 10:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">QmoDog      </span><span class="f3 push-content">: 老楊恩迷</span><span class="push-ipdatetime"> 09/26 10:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jayjen      </span><span class="f3 push-content">: 期盼集滿球衣</span><span class="push-ipdatetime"> 09/26 10:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s66449      </span><span class="f3 push-content">: 籃球浪人</span><span class="push-ipdatetime"> 09/26 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jamesyu545  </span><span class="f3 push-content">:     #能量老林</span><span class="push-ipdatetime"> 09/26 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smallksc    </span><span class="f3 push-content">: 這是第幾次充滿能量了?</span><span class="push-ipdatetime"> 09/26 10:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovekisswf  </span><span class="f3 push-content">: 然後玻璃</span><span class="push-ipdatetime"> 09/26 11:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fromia      </span><span class="f3 push-content">: 能量豪</span><span class="push-ipdatetime"> 09/26 11:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sttarmbcb390</span><span class="f3 push-content">: 被老普傳功了</span><span class="push-ipdatetime"> 09/26 11:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lp123gbaj   </span><span class="f3 push-content">: 他不是在中國拍節目嗎</span><span class="push-ipdatetime"> 09/26 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ybw         </span><span class="f3 push-content">: 結果開季一週又傷了</span><span class="push-ipdatetime"> 09/26 11:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cary871015  </span><span class="f3 push-content">: 樓上這樣可以桶吧</span><span class="push-ipdatetime"> 09/26 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ybw         </span><span class="f3 push-content">: 為什麼這樣要桶???</span><span class="push-ipdatetime"> 09/26 11:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sokalula    </span><span class="f3 push-content">: 詛咒球員 是可以桶的</span><span class="push-ipdatetime"> 09/26 11:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ybw         </span><span class="f3 push-content">: 呃…那可以幫我修掉嗎？</span><span class="push-ipdatetime"> 09/26 11:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rrazer      </span><span class="f3 push-content">: 要在老鷹待到退休了</span><span class="push-ipdatetime"> 09/26 11:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxz414      </span><span class="f3 push-content">: 小心業力引爆</span><span class="push-ipdatetime"> 09/26 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yellowboy   </span><span class="f3 push-content">: 豪式：全身充滿力量!</span><span class="push-ipdatetime"> 09/26 11:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tawara      </span><span class="f3 push-content">: 老能量迷站出來!</span><span class="push-ipdatetime"> 09/26 11:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccf0423     </span><span class="f3 push-content">: 看到能量就想到老普XD</span><span class="push-ipdatetime"> 09/26 11:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hijodedios36</span><span class="f3 push-content">: 能量老普XD</span><span class="push-ipdatetime"> 09/26 12:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gygycowbei  </span><span class="f3 push-content">: 這就是書豪</span><span class="push-ipdatetime"> 09/26 12:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bycarbird   </span><span class="f3 push-content">: 希望豪豪能健康打完下季</span><span class="push-ipdatetime"> 09/26 12:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aoyama618   </span><span class="f3 push-content">: 詛咒不桶？</span><span class="push-ipdatetime"> 09/26 12:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Sammy0820   </span><span class="f3 push-content">: 加油</span><span class="push-ipdatetime"> 09/26 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kenbo       </span><span class="f3 push-content">: 有什麼好桶的？？？？？？</span><span class="push-ipdatetime"> 09/26 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">killer75115 </span><span class="f3 push-content">: 這是要桶啥？</span><span class="push-ipdatetime"> 09/26 12:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">killer75115 </span><span class="f3 push-content">: 乾脆說酸林的都桶一桶好了</span><span class="push-ipdatetime"> 09/26 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gratitude   </span><span class="f3 push-content">: 說不定沒人檢舉  所以不桶</span><span class="push-ipdatetime"> 09/26 12:22
 </span></div></div>
     
-    <div id="article-polling" data-pollurl="/poll/NBA/M.1537919556.A.FC4.html?cacheKey=2100-962273319&amp;offset=13368&amp;offset-sig=4cc2ac8736ae4aecdf56c09e12851f74705b9e69" data-longpollurl="/v1/longpoll?id=7ec66e933ccf9a33717dccaab9947f0d6a22b5f3" data-offset="13368"></div>
+    <div id="article-polling" data-pollurl="/poll/NBA/M.1537926283.A.67B.html?cacheKey=2100-962338853&amp;offset=5537&amp;offset-sig=87cd166a59c6ae307a414d2b2bae261fae488bbb" data-longpollurl="/v1/longpoll?id=9c281a0fa6809a9104d93eb3ec6ed709c38e8486" data-offset="5537"></div>
     
 
     
