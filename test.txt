@@ -1,0 +1,244 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="edit_on_doubleclick" content="/">
+<meta name="robots" content="index,nofollow">
+
+<title>The Zen Of Python - Python Taiwan Wiki</title>
+<script type="text/javascript" src="/htdocs/common/js/common.js"></script>
+
+<script type="text/javascript">
+<!--
+var search_hint = "搜尋";
+//-->
+</script>
+
+<script type="text/javascript">
+<!-- // GUI edit link and i18n
+var gui_editor_link_href = "/The%20Zen%20Of%20Python?action=edit&editor=gui";
+var gui_editor_link_text = "編輯(GUI)";
+//-->
+</script>
+
+<link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/htdocs/gugiel/css/common.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="screen" href="/htdocs/gugiel/css/screen.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="print" href="/htdocs/gugiel/css/print.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="projection" href="/htdocs/gugiel/css/projection.css">
+
+<!-- css only for MS IE6/IE7 browsers -->
+<!--[if lt IE 8]>
+   <link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/htdocs/gugiel/css/msie.css">
+<![endif]-->
+
+
+<link rel="alternate" title="Python Taiwan Wiki: The Zen Of Python" href="/The%20Zen%20Of%20Python?diffs=1&amp;show_att=1&amp;action=rss_rc&amp;unique=0&amp;page=The+Zen+Of+Python&amp;ddiffs=1" type="application/rss+xml">
+<link rel="alternate" type="application/wiki" title="編輯" href="/The%20Zen%20Of%20Python?action=edit">
+
+<link rel="Start" href="/Pot">
+<link rel="Alternate" title="Wiki 標記" href="/The%20Zen%20Of%20Python?action=raw">
+<link rel="Alternate" media="print" title="檢視列印形" href="/The%20Zen%20Of%20Python?action=print">
+<link rel="Search" href="/%E5%B0%8B%E6%89%BE%E9%A0%81%E9%9D%A2">
+<link rel="Index" href="/%E6%A8%99%E9%A1%8C%E7%B4%A2%E5%BC%95">
+<link rel="Glossary" href="/%E8%A9%9E%E5%BD%99%E7%B4%A2%E5%BC%95">
+<link rel="Help" href="/%E8%AA%AA%E6%98%8E/%E6%8E%92%E7%89%88">
+</head>
+
+<body  lang="zh-tw" dir="ltr">
+
+<div id="header">
+<div id="utils">
+<div id="username"><a href="/The%20Zen%20Of%20Python?action=login" id="login" rel="nofollow">登入</a></div>
+
+<form id="searchform" method="get" action="/The%20Zen%20Of%20Python">
+<div>
+<input type="hidden" name="action" value="fullsearch">
+<input type="hidden" name="context" value="180">
+<label for="searchinput">搜尋：</label>
+<input id="searchinput" type="text" name="value" value="" size="20"
+    onfocus="searchFocus(this)" onblur="searchBlur(this)"
+    onkeyup="searchChange(this)" onchange="searchChange(this)" alt="Search">
+<input id="titlesearch" name="titlesearch" type="submit"
+    value="標題" alt="Search Titles">
+<input id="fullsearch" name="fullsearch" type="submit"
+    value="內文" alt="Search Full Text">
+</div>
+</form>
+<script type="text/javascript">
+<!--// Initialize search form
+var f = document.getElementById('searchform');
+f.getElementsByTagName('label')[0].style.display = 'none';
+var e = document.getElementById('searchinput');
+searchChange(e);
+searchBlur(e);
+//-->
+</script>
+
+</div>
+<div id="logo"><a href="/Pot"><img src="/htdocs/siteimg/pytug_logo.png" title="回到首頁" alt="Back to homepage" /></a></div>
+<h1 id="locationline">
+
+<span id="pagelocation"><a class="backlink" href="/The%20Zen%20Of%20Python?action=fullsearch&amp;context=180&amp;value=linkto%3A%22The+Zen+Of+Python%22" rel="nofollow" title="點一下，對本頁標題做全文檢索，以便找出引用本頁的頁面">The Zen Of Python</a></span>
+</h1>
+
+<ul id="navibar">
+<li class="wikilink"><a href="/%E6%9C%80%E6%96%B0%E6%9B%B4%E5%8B%95">最新更動</a></li><li class="wikilink"><a href="/%E5%B0%8B%E6%89%BE%E9%A0%81%E9%9D%A2">尋找頁面</a></li><li class="wikilink"><a href="/PotWiki/%E6%85%A3%E4%BE%8B">PotWiki/慣例</a></li><li class="wikilink"><a href="/PythonProjects">PythonProjects</a></li><li class="wikilink"><a href="/%E8%AA%AA%E6%98%8E">說明</a></li><li class="current"><a href="/The%20Zen%20Of%20Python">The Zen Of Python</a></li>
+</ul>
+
+<div id="pageline"><hr style="display:none;"></div>
+<ul class="editbar"><li><a href="/The%20Zen%20Of%20Python?action=edit&amp;editor=text" name="texteditlink" rel="nofollow">編輯(Text)</a></li><li class="toggleCommentsButton" style="display:none;"><a href="#" class="nbcomment" onClick="toggleComments();return false;">說明</a></li><li><a class="nbinfo" href="/The%20Zen%20Of%20Python?action=info" rel="nofollow">關於</a></li><li><a class="nbattachments" href="/The%20Zen%20Of%20Python?action=AttachFile" rel="nofollow">附件</a></li><li>
+<form class="actionsmenu" method="GET" action="/The%20Zen%20Of%20Python">
+<div>
+    <label>更多功能</label>
+    <select name="action"
+        onchange="if ((this.selectedIndex != 0) &&
+                      (this.options[this.selectedIndex].disabled == false)) {
+                this.form.submit();
+            }
+            this.selectedIndex = 0;">
+        <option value="raw">檢視原始形</option>
+<option value="print">檢視列印形</option>
+<option value="RenderAsDocbook">DocBook 形</option>
+<option value="refresh">刪除快取</option>
+<option value="show" disabled class="disabled">------------------------</option>
+<option value="SpellCheck">拼字檢查</option>
+<option value="LikePages">相似頁面</option>
+<option value="LocalSiteMap">連結地圖</option>
+<option value="show" disabled class="disabled">------------------------</option>
+<option value="RenamePage" disabled class="disabled">重新命名</option>
+<option value="DeletePage" disabled class="disabled">刪除本頁</option>
+<option value="show" disabled class="disabled">------------------------</option>
+<option value="show" disabled class="disabled">新增訂戶</option>
+<option value="show" disabled class="disabled">------------------------</option>
+<option value="show" disabled class="disabled">移除垃圾</option>
+<option value="show" disabled class="disabled">回復成此版</option>
+<option value="PackagePages">打包頁面</option>
+<option value="SyncPages">同步頁面</option>
+<option value="show" disabled class="disabled">------------------------</option>
+<option value="Load">載入</option>
+<option value="PageActions">PageActions</option>
+<option value="Save">存檔</option>
+<option value="SlideShow">SlideShow</option>
+    </select>
+    <input type="submit" value="執行">
+    
+</div>
+<script type="text/javascript">
+<!--// Init menu
+actionsMenuInit('更多功能');
+//-->
+</script>
+</form>
+</li></ul>
+
+
+
+</div>
+<div id="header2">Python@TW: <a href="/PotPeople">會眾</a>| 
+<a href="/PotResources/IRC">IRC</a>| 
+<a href="http://planet.python.org.tw/" target="_blank">Planet</a>| 
+<a href="http://groups.google.com/group/pythontw" target="_blank">郵件列表</a>| 
+<a href="/聯絡我們">聯絡我們</a></div>
+
+
+<div id="page" lang="zh-tw" dir="ltr">
+<div dir="ltr" id="content" lang="zh-tw"><span class="anchor" id="top"></span>
+<span class="anchor" id="line-1"></span><p class="line862">Tim Peters 所提出的 PEP 20: <a class="http" href="http://www.python.org/dev/peps/pep-0020/">The Zen of Python</a> 是撰寫 Python 程式的精神指標。別懷疑，也別覺得太玄，每一句都是金玉良言。 <span class="anchor" id="line-2"></span><span class="anchor" id="line-3"></span><p class="line862">這裡列出 The Zen of Python 的原文版以及本站 POT 眾人合力的翻譯版。如果想知道這中文翻譯版的實作過程，或是想逐條檢討翻譯，請至 <a href="/The%20Zen%20Of%20Python%20CHT%20History">The Zen Of Python CHT History</a> 頁面。(<a class="http" href="http://wiki.woodpecker.org.cn/moin/PythonZen">PythonZen</a><sup>CPyUG~华蟒用户组在啄木鸟维基的翻译</sup>) <span class="anchor" id="line-4"></span><span class="anchor" id="line-5"></span><p class="line867">
+<h1 id="The_Zen_of_Python_.28.2BgvFlh1OfZYdySA.29">The Zen of Python (英文原文版)</h1>
+<span class="anchor" id="line-6"></span><span class="anchor" id="line-7"></span><p class="line874">Beautiful is better than ugly. <span class="anchor" id="line-8"></span><span class="anchor" id="line-9"></span><p class="line874">Explicit is better than implicit. <span class="anchor" id="line-10"></span><span class="anchor" id="line-11"></span><p class="line874">Simple is better than complex. <span class="anchor" id="line-12"></span><span class="anchor" id="line-13"></span><p class="line874">Complex is better than complicated. <span class="anchor" id="line-14"></span><span class="anchor" id="line-15"></span><p class="line874">Flat is better than nested. <span class="anchor" id="line-16"></span><span class="anchor" id="line-17"></span><p class="line874">Sparse is better than dense. <span class="anchor" id="line-18"></span><span class="anchor" id="line-19"></span><p class="line874">Readability counts. <span class="anchor" id="line-20"></span><span class="anchor" id="line-21"></span><p class="line874">Special cases aren't special enough to break the rules. <span class="anchor" id="line-22"></span><span class="anchor" id="line-23"></span><p class="line874">Although practicality beats purity. <span class="anchor" id="line-24"></span><span class="anchor" id="line-25"></span><p class="line874">Errors should never pass silently. <span class="anchor" id="line-26"></span><span class="anchor" id="line-27"></span><p class="line874">Unless explicitly silenced. <span class="anchor" id="line-28"></span><span class="anchor" id="line-29"></span><p class="line874">In the face of ambiguity, refuse the temptation to guess. <span class="anchor" id="line-30"></span><span class="anchor" id="line-31"></span><p class="line874">There should be one-- and preferably only one --obvious way to do it. <span class="anchor" id="line-32"></span><span class="anchor" id="line-33"></span><p class="line874">Although that way may not be obvious at first unless you're Dutch. <span class="anchor" id="line-34"></span><span class="anchor" id="line-35"></span><p class="line874">Now is better than never. <span class="anchor" id="line-36"></span><span class="anchor" id="line-37"></span><p class="line874">Although never is often better than *right* now. <span class="anchor" id="line-38"></span><span class="anchor" id="line-39"></span><p class="line874">If the implementation is hard to explain, it's a bad idea. <span class="anchor" id="line-40"></span><span class="anchor" id="line-41"></span><p class="line874">If the implementation is easy to explain, it may be a good idea. <span class="anchor" id="line-42"></span><span class="anchor" id="line-43"></span><p class="line874">Namespaces are one honking great idea -- let's do more of those! <span class="anchor" id="line-44"></span><span class="anchor" id="line-45"></span><p class="line867">
+<h1 id="Python_.2BTkuQUw_.28POT_.2Bdz6Lb3JI.29">Python 之道 (POT 眾譯版)</h1>
+<span class="anchor" id="line-46"></span><span class="anchor" id="line-47"></span><p class="line874">美麗優於醜陋，明講好過暗諭。 <span class="anchor" id="line-48"></span><span class="anchor" id="line-49"></span><p class="line867"><span class="anchor" id="line-50"></span><p class="line874">簡潔者為上，複雜者次之，繁澀者為下。 <span class="anchor" id="line-51"></span><span class="anchor" id="line-52"></span><p class="line874">平舖善於層疊，勻散勝過稠密；以致輕鬆易讀。 <span class="anchor" id="line-53"></span><span class="anchor" id="line-54"></span><p class="line874">特例難免但不可打破原則，務求純淨卻不可不切實際。 <span class="anchor" id="line-55"></span><span class="anchor" id="line-56"></span><p class="line874">斷勿使錯誤靜靜流逝，除非有意如此。 <span class="anchor" id="line-57"></span><span class="anchor" id="line-58"></span><p class="line874">在模擬兩可之間，拒絕猜測的誘惑。 <span class="anchor" id="line-59"></span><span class="anchor" id="line-60"></span><p class="line874">總會有一種明確的寫法，最好也只有一種， <span class="anchor" id="line-61"></span><span class="anchor" id="line-62"></span><p class="line874">但或須細想方可得。 <span class="anchor" id="line-63"></span><span class="anchor" id="line-64"></span><p class="line874">凡事雖應三思後行，但坐而言不如起而行。 <span class="anchor" id="line-65"></span><span class="anchor" id="line-66"></span><p class="line874">難以解釋的實作方式，必定是壞方法。 <span class="anchor" id="line-67"></span><span class="anchor" id="line-68"></span><p class="line874">容易解釋的實作方式，可能是好主意。 <span class="anchor" id="line-69"></span><span class="anchor" id="line-70"></span><p class="line874">命名空間讚，吾人多實用。 <span class="anchor" id="line-71"></span><span class="anchor" id="bottom"></span></div><p id="pageinfo" class="info" lang="zh-tw" dir="ltr">The Zen Of Python  (上次是 <span title="Zoomq @ 113.106.106.131[113.106.106.131]"><a href="/ZoomQuiet" title="Zoomq @ 113.106.106.131[113.106.106.131]">ZoomQuiet</a></span> 在 2010-04-08 09:57:40 編輯的)</p>
+
+<div id="pagebottom"></div>
+</div>
+
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"
+    type="text/javascript"></script>
+    <script type="text/javascript">
+    var textcha = $("input#textcha-answer");
+    if (textcha) {
+        var edit_form = $("form#editor");
+        if (edit_form) {
+            edit_form.submit(function() {
+                if (textcha.val() == "") {
+                    var chaquestion = $("span#textcha-question");
+                    if (chaquestion) {
+                        chaquestion.addClass('warning');
+                        $("#textcha-answer").focus();
+                    }
+                    return false;
+                }
+            });
+        }
+    }
+    </script>
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount',  'UA-17484114-1']);
+  _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,  s);
+        })();
+
+                      </script>
+    
+<div id="footer">
+<ul class="editbar"><li><a href="/The%20Zen%20Of%20Python?action=edit&amp;editor=text" name="texteditlink" rel="nofollow">編輯(Text)</a></li><li class="toggleCommentsButton" style="display:none;"><a href="#" class="nbcomment" onClick="toggleComments();return false;">說明</a></li><li><a class="nbinfo" href="/The%20Zen%20Of%20Python?action=info" rel="nofollow">關於</a></li><li><a class="nbattachments" href="/The%20Zen%20Of%20Python?action=AttachFile" rel="nofollow">附件</a></li><li>
+<form class="actionsmenu" method="GET" action="/The%20Zen%20Of%20Python">
+<div>
+    <label>更多功能</label>
+    <select name="action"
+        onchange="if ((this.selectedIndex != 0) &&
+                      (this.options[this.selectedIndex].disabled == false)) {
+                this.form.submit();
+            }
+            this.selectedIndex = 0;">
+        <option value="raw">檢視原始形</option>
+<option value="print">檢視列印形</option>
+<option value="RenderAsDocbook">DocBook 形</option>
+<option value="refresh">刪除快取</option>
+<option value="show" disabled class="disabled">------------------------</option>
+<option value="SpellCheck">拼字檢查</option>
+<option value="LikePages">相似頁面</option>
+<option value="LocalSiteMap">連結地圖</option>
+<option value="show" disabled class="disabled">------------------------</option>
+<option value="RenamePage" disabled class="disabled">重新命名</option>
+<option value="DeletePage" disabled class="disabled">刪除本頁</option>
+<option value="show" disabled class="disabled">------------------------</option>
+<option value="show" disabled class="disabled">新增訂戶</option>
+<option value="show" disabled class="disabled">------------------------</option>
+<option value="show" disabled class="disabled">移除垃圾</option>
+<option value="show" disabled class="disabled">回復成此版</option>
+<option value="PackagePages">打包頁面</option>
+<option value="SyncPages">同步頁面</option>
+<option value="show" disabled class="disabled">------------------------</option>
+<option value="Load">載入</option>
+<option value="PageActions">PageActions</option>
+<option value="Save">存檔</option>
+<option value="SlideShow">SlideShow</option>
+    </select>
+    <input type="submit" value="執行">
+    
+</div>
+<script type="text/javascript">
+<!--// Init menu
+actionsMenuInit('更多功能');
+//-->
+</script>
+</form>
+</li></ul>
+
+<ul id="credits">
+<li>Copyright &copy; 2007-2012 <a href="/Disclaimers">Disclaimers</a></li>
+</ul>
+
+
+</div>
+</body>
+</html>
+
